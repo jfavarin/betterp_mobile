@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v4\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v4\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v5\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v5\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v5\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v5\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\$Mobile and Web Dev\\BetterP\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "D:\\$Mobile and Web Dev\\BetterP\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v4\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v4\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\$Mobile and Web Dev\\BetterP\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "D:\\$Mobile and Web Dev\\BetterP\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    }
+]

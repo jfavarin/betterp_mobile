@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="453427e529ccd47ef859c7d739a59ab32f7f14ee">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-basement-11.4.0_724c7bd339f786a253228ae7eb8c1b29e71a9515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-design-25.3.1_ea40d79a03cdc752c25794f504c45ca19c292529.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-recyclerview-v7-25.3.1_d46b02037a54cf5f98a05a9496a98e25d271c07b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-transition-25.3.1_8b13cd65edddda8a2446426507950b29dd45bf0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_dab6a7bbeb04777353d78e403dea3468067b78f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\11.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f32a31f3449f318d8f76b627644a19531285a0d6">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-location-11.4.0_e8ca756bf27e439ff17496282071892a311931f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-utils-25.3.1_6444e39c5d5637bb198102d9e89b31faa03213b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\nativescript-optimized\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-nativescript-optimized_048327dc6b2082addb347abdcda7831af911379f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-fragment-25.3.1_10e7a2cfbe282e18e229ccdce029281b34259907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-25.3.1_6359bff3ac3375f6a7bfe509bf03421a9f8bf60d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-compat-25.3.1_ece2c47da452fb42782fbd9d59235591717a4548.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-25.3.1_5473846242d69db885ba7e93f4e14ee1a4de4349.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-25.3.1_07cc1bdab6386cc71ca9e51c0b2d242e9420314e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-media-compat-25.3.1_1d1ee357ebdda44418c2ec564370c2bf665f8ec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f34896233f3fe6ecb75025e06b33980cee8239a">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-base-11.4.0_eaf07e120d3ab314edadec9d74d9c2418978f3f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="49743d94bd8f62b64049c3e3065c18598ce2ca7f">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-tasks-11.4.0_d833d5c77203824c2acc90b32b519a85c6b5b486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-25.3.1_2f1ff815b62661419959aec43025e8a35d4d3928.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-ui-25.3.1_a2d4ae1aa62ff0d34b20b50afb05c9042dad8c9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\$Mobile and Web Dev\BetterP\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-25.3.1_d166b8a13b11573b147b65cb6fdc59bd2c5416ed.jar" />
+    </item>
+
+</items>

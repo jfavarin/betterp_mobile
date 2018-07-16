@@ -1,0 +1,22 @@
+<Page loaded="onPageLoaded">
+    <Page.actionBar>
+        <ActionBar title="BetterP">
+            <ActionBar.actionItems>
+                <ActionItem text="Config" tap="config" ios.position="right" />
+            </ActionBar.actionItems>
+        </ActionBar>
+    </Page.actionBar>
+    <GridLayout rows="auto, *">
+        <StackLayout row="0">
+            <SearchBar id="productSearch" hint="Digite o nome do produto" text="{{ productSearch }}" clear="clearProductsSearch" submit="getProductsSearch" />        </StackLayout>
+        <ListView class="list-group" items="{{ products }}" row="1">
+            <ListView.itemTemplate>
+                <GridLayout class="list-group-item" columns="*,*" rows="30,*">
+                    <Label class="list-group-item-heading" text="{{ name }}" col="0" row="0"/>
+                    <Label class="list-group-item-text" text="{{ store.storeName }}" col="0" row="1"/>
+                    <Label class="text-danger" text="{{ 'R$ ' + price }}" col="1" rowSpan="2"/>
+                </GridLayout>
+            </ListView.itemTemplate>
+        </ListView>
+    </GridLayout>
+</Page>

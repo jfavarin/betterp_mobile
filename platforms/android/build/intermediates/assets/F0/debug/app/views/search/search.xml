@@ -1,0 +1,11 @@
+<Page loaded="onPageLoaded">
+    <GridLayout rows="auto, *">
+        <StackLayout row="0">
+            <SearchBar id="productSearch" hint="Digite o nome do produto" text="{{ productSearch }}" clear="clearProductsSearch" submit="getProductsSearch" />        </StackLayout>
+        <ListView items="{{ products }}" row="1">
+            <ListView.itemTemplate>
+                <Label text="{{ name + ' - R$ ' + price }}" />
+            </ListView.itemTemplate>
+        </ListView>
+    </GridLayout>
+</Page>

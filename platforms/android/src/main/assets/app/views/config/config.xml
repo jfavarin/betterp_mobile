@@ -1,0 +1,10 @@
+<Page loaded="onPageLoaded">
+    <StackLayout orientation="vertical">
+        <GridLayout marginTop="40" columns="*,*" rows="40">
+            <Label text="Raio de Localização" col="0" row="0"/>
+            <TextField id="radius" text="{{ radius }}" keyboardType="number" col="1" row="0"/>
+
+        </GridLayout>
+        <Button text="Salvar Alterações" class="btn btn-primary" tap="saveButton" />
+    </StackLayout>
+</Page>

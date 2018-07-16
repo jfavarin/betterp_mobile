@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v5\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v5\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\$Mobile and Web Dev\\BetterP\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "D:\\$Mobile and Web Dev\\BetterP\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v4\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v4\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v16\\notification_template_custom_big.xml"
+    }
+]

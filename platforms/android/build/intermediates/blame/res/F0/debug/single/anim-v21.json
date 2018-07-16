@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v4\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v4\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v3\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v4\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v4\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v2\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v3\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v2\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\$The Web Developer Bootcamp\\Ofertapp\\Ofertapp\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]
