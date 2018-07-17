@@ -158,3 +158,4 @@ D:\$Mobile and Web Dev\BetterP\platforms\android\src\main\assets\app\views\confi
 D:\$Mobile and Web Dev\BetterP\platforms\android\src\main\assets\app\views\login\login.js
 D:\$Mobile and Web Dev\BetterP\platforms\android\src\main\assets\app\views\login\loginview.js
 D:\$Mobile and Web Dev\BetterP\platforms\android\src\main\assets\app\views\search\search.js
+D:\$Mobile and Web Dev\BetterP\platforms\android\src\main\assets\app\views\services\user-service.js

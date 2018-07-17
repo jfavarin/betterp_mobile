@@ -1,13 +1,14 @@
 const observableModule = require("data/observable");
 const dialogsModule = require("ui/dialogs");
-// const userService = require("~/services/user-service");
+const userService = require("../services/user-service");
 const topmost = require("ui/frame").topmost;
 
 function LoginViewModel() {
     const viewModel = observableModule.fromObject({
-        email: "js@nativescript.com",
-        password: "nscore",
-        confirmPassword: "",
+        email: "",
+        password: "",
+        nomecompleto: "",
+        cpf: "",
         isLoggingIn: true,
         toggleForm() {
             this.isLoggingIn = !this.isLoggingIn;
@@ -45,10 +46,10 @@ function LoginViewModel() {
             });
         },
         register() {
-            if (this.password != this.confirmPassword) {
-                alert("Your passwords do not match.");
-                return;
-            }
+            // if (this.password != this.confirmPassword) {
+            //     alert("Your passwords do not match.");
+            //     return;
+            // }
             userService.register({
                 email: this.email,
                 password: this.password
